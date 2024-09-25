@@ -1,1 +1,2 @@
-THis is not an Original Program
+This is me praticing my GIT Skills
+
